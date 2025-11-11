@@ -26,7 +26,7 @@ The main goal is to demonstrate data engineering and analytics skills by transfo
 ---
 
 ## 📂 Project Structure
-global-superstore-project/
+```global-superstore-project/
 │
 ├── data/
 │ └── raw/ # Raw dataset (.csv)
@@ -38,7 +38,7 @@ global-superstore-project/
 ├── architecture/ # Pipeline diagrams, data models, and architecture docs
 │
 └── README.md # Project documentation
-
+```
 ---
 
 ## 📈 Dataset
